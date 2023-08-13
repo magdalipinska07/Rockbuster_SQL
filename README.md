@@ -45,4 +45,4 @@ Rockbuster Stealth Management Board
 
 ### Visualization
 
-Visualizations for this project were created in Tableau and can be found [here]
+Visualizations for this project were created in Tableau and can be found [[here](https://public.tableau.com/app/profile/magdalena.lipinska/viz/3_10Rockbuster_16858238573820/Story1?publish=yes)]
