@@ -1,4 +1,4 @@
---
+----Finding top 5 customers in specific cities, using CTE
 
 EXPLAIN WITH top_5_customers (customer_id, first_name, last_name, country, city, total_amount_spent) AS 
 (SELECT A.custimer_id, A.first_name, A.last_name, D.country, D.city, SUM(E.amount) AS total_amount_spent
